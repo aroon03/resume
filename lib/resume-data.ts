@@ -75,7 +75,6 @@ export const skills: string[] = [
   "ServiceMesh",
   "DB2",
   "ELK Stack",
-  "Apache Spark",
   "IBM MDM",
   "Kafka",
   "Data Science and Modeling",
