@@ -77,8 +77,8 @@
      the binding constraint. Adjust this value if content length changes. */
   .resume-sheet {
     zoom: 0.7;
-    width: 850px !important;
-    max-width: 850px !important;
+    width: 1000px !important;
+    max-width: 1000px !important;
     margin: 0 auto !important;
     box-shadow: none !important;
   }
