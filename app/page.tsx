@@ -134,7 +134,7 @@ export default function Home() {
                 {skills.map((skill, index) => (
                   <span
                     key={index}
-                    className="rounded-md border border-[#2f7cb0] bg-[#2f7cb0] px-3 py-1 text-sm font-medium text-white"
+                    className="skill-badge rounded-md border border-[#2f7cb0] bg-[#2f7cb0] px-3 py-1 text-sm font-medium text-white"
                   >
                     {skill}
                   </span>

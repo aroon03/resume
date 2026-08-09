@@ -59,6 +59,7 @@ export const experience: ExperienceItem[] = [
 
 // Flat list of technical skills, rendered as pills.
 export const skills: string[] = [
+  "AI Agent Development", "AI Workflows", "MCP Server",
   "NodeJS",
   "ReactJS",
   "Cosmos DB",
@@ -68,7 +69,6 @@ export const skills: string[] = [
   "Figma",
   "GraphQL",
   "REST",
-  "Dockers",
   "K8s",
   "Datapower",
   "APIM",
@@ -77,11 +77,9 @@ export const skills: string[] = [
   "ELK Stack",
   "IBM MDM",
   "Kafka",
-  "Data Science and Modeling",
   "Dynatrace",
   "Graphana",
   "Power BI",
-  "Looker",
   "Mainframe Technologies",
 ]
 
