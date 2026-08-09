@@ -78,7 +78,6 @@ export const skills: string[] = [
   "ELK Stack",
   "IBM MDM",
   "Kafka",
-  "Data Science and Modeling",
   "Dynatrace",
   "Graphana",
   "Power BI",
