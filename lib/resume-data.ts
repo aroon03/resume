@@ -69,7 +69,6 @@ export const skills: string[] = [
   "Figma",
   "GraphQL",
   "REST",
-  "Dockers",
   "K8s",
   "Datapower",
   "APIM",
@@ -81,7 +80,6 @@ export const skills: string[] = [
   "Dynatrace",
   "Graphana",
   "Power BI",
-  "Looker",
   "Mainframe Technologies",
 ]
 
