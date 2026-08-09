@@ -76,9 +76,9 @@
      The content is proportionally taller than an A4 page, so height is
      the binding constraint. Adjust this value if content length changes. */
   .resume-sheet {
-    zoom: 0.84;
-    width: 1000px !important;
-    max-width: 1000px !important;
+    zoom: 0.7;
+    width: 850px !important;
+    max-width: 850px !important;
     margin: 0 auto !important;
     box-shadow: none !important;
   }
