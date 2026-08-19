@@ -34,7 +34,7 @@ export const experience: ExperienceItem[] = [
     period: "09/2013 - Present",
     location: "Bentonville, AR",
     bullets: [
-      "Architected and led the contingency platform strategy for the organization's largest private recruiting system, ensuring high availability and seamless business continuity.",
+      "Leading the contingency platform strategy for the organization's largest private recruiting system, ensuring high availability and seamless business continuity.",
       "Headed frontend engineering for SamsClub.com's core e-commerce Membership and Login platforms, optimizing user authentication and digital onboarding flows.",
       'Lead the "One Patient Record" initiative, orchestrating the integration of 260 million patient profiles across 5,000+ US locations; established robust data pipelines, data cleansing protocols, and an IBM MDM integration to deliver a unified, 360-degree customer view.',
       {
